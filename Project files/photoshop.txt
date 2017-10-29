@@ -1,0 +1,46 @@
+﻿1. Įsirašykite https://github.com/iamdarrenhall/list-fonts PSD šriftams identifikuoti
+	- Naudokitės instrukcija
+
+2. Raskite atitinkamus šriftus Google Fonts duomenų bazėje
+
+3. Įsidėkite rastus šriftus į savo operacinę sistemą
+	
+- Po įdėjimo perkraukite Photoshop programą
+
+4. Sugeneruokite web šriftus:
+	
+- https://www.fontsquirrel.com/tools/webfont-generator
+	
+- https://onlinefontconverter.com/
+	
+- http://transfonter.org/
+	
+- Eksportuokite formatais WOFF, WOFF2, EOT, SVG, TTF
+	
+- Visuomet eksportuokite regular, regular italic, bold ir bold italic dydžius
+
+5. Išsikirpkite visus paveiksliukus ir ikonėles (jeigu nerandate ikonėlės Icomoon bazėje ar internete - 6 punktas)
+	
+- Nepamirškite saugoti save for web
+	
+- Saugokite JPG ir PNG-24 formatais
+	
+- Optimizuokite PNG paveiksliukus su
+		
+- https://pnggauntlet.com/
+		
+- https://imageoptim.com/mac
+		
+- https://compressor.io/compress
+
+6. Ikonėlėms naudokite Icomoon - https://icomoon.io/app/#/select
+	
+- Pasirinkite norimas naudoti ikonėles
+	
+- Importuokite SVG ikonėles (jeigu jos yra vienos spalvos)
+	
+- Jūsų pasirinkimai išsisaugo naršyklėje, todėl kitą kartą prisijungus, matysite tą patį ikonėlių sąrašą ir pasirinkimą
+	
+- Baigę eksportuokite ikonėlių šriftą spausdami 'Generate Font' -> 'Download'
+	
+- Paskutiniame lange matysite kiekvienos ikonėlės kodą, kaip pvz. 'ea3c', juos naudosime priskiriant ikonėlę html žymei
